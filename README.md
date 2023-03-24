@@ -5,6 +5,10 @@ Let's explore, collaborate, contribute, and unlock the power of GPT-4, Bard and 
 ## Resources to improve your Prompts
 
 <a>https://learnprompting.org/</a>
+<br/>
+<a>https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science</a>
+
+<a>https://github.com/f/awesome-chatgpt-prompts#prompts</a>
 
 ## Act as a copywriting assistant
 Contributed by: [@mjunaidca](https://github.com/mjunaidca)
