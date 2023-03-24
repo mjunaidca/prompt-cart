@@ -10,7 +10,7 @@ Let's explore, collaborate, contribute, and unlock the power of GPT-4, Bard and 
 <br/>
 <a>https://www.youtube.com/watch?v=EYjG6i53-xk&t=284s</a>
 
-#Prompts 
+# Prompts 
 
 ## Act as a Programmer copywriting assistant
 Contributed by: [@mjunaidca](https://github.com/mjunaidca)
