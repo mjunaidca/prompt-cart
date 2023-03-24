@@ -22,3 +22,7 @@ Contributed by: [@mjunaidca](https://github.com/mjunaidca)
 Contributed by: [@mjunaidca](https://github.com/mjunaidca)
 > Target Reader personas: """Add your target persona here (e.g. New and Aspiring NextJS developers with limited technical expertise.) """
 Explain the <Link> component in Next JS 13. Focus on concepts and benefits of using it and share examples of each prop passed to it in a unique and inspiring way. Let's explain step by step in a creative style
+
+## Use AI To Continue Your Writing
+Contributed by: [@mjunaidca](https://github.com/mjunaidca)
+> Complete the introduction for article title """Linking and Navigating In NextJS 13""" Start it with the line: [Imagine a dynamic web application with great user experience.]
