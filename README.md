@@ -7,7 +7,7 @@ Let's explore, collaborate, contribute, and unlock the power of GPT-4, Bard and 
 <ul>
   <li><a href="https://learnprompting.org/">learnprompting.org</a></li>
     <li><a href="https://www.youtube.com/watch?v=EYjG6i53-xk&t=284s">This Will Make You Better than 99% ChatGPT Users</a></li>
-   <li><a href="[https://www.youtube.com/watch?v=EYjG6i53-xk&t=284s](https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3)">3 ways to use ChatGPT to get the best results</a></li>
+   <li><a href="https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3">3 ways to use ChatGPT to get the best results</a></li>
     <li><a href="https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science">chatgpt-cheat-sheet-data-science</a></li>
 </ul>
 
