@@ -5,7 +5,7 @@ Let's explore, collaborate, contribute, and unlock the power of GPT-4, Bard and 
 <b>Resources to improve your Prompts</b>
 
 <ul>
-  <li><a>https://learnprompting.org/</a></li>
+  <a><li>https://learnprompting.org/</li></a>
   <li><a>https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science</a></li>
   <li><a>https://www.youtube.com/watch?v=EYjG6i53-xk&t=284s</a></li>
 </ul>
