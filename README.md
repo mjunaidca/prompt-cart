@@ -2,7 +2,9 @@
 
 Let's explore, collaborate, contribute, and unlock the power of GPT-4, Bard and AI copilots.
 
-## Prompts
+## Resources to improve your Prompts
+
+<a>https://learnprompting.org/</a>
 
 ## Act as a copywriting assistant
 Contributed by: [@mjunaidca](https://github.com/mjunaidca)
