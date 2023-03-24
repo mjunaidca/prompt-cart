@@ -2,13 +2,15 @@
 
 Let's explore, collaborate, contribute, and unlock the power of GPT-4, Bard and AI copilots.
 
-## Resources to improve your Prompts
+<b>Resources to improve your Prompts</b>
 
 <a>https://learnprompting.org/</a>
 <br/>
 <a>https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science</a>
 <br/>
 <a>https://www.youtube.com/watch?v=EYjG6i53-xk&t=284s</a>
+
+#Prompts 
 
 ## Act as a Programmer copywriting assistant
 Contributed by: [@mjunaidca](https://github.com/mjunaidca)
