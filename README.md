@@ -12,6 +12,7 @@ Let's explore, collaborate, contribute, and unlock the power of GPT-4, Bard and 
     <li><a href="https://hasantoxr.gumroad.com/l/gpt4">GPT-4 1000+ AI Prompts</a> (For free access add $0 in fair price) </li>
      <li><a href="https://twitter.com/skirano/status/1639091635899478016">Feed Docs and Code with GPT-4</a> (Builds Zing, a witty Bing AI clone) </li>
      <li><a href="https://www.allabtai.com/category/prompt-engineering/">Prompt Engineering Practical Tips</a> </li>
+      <li><a href="https://www.youtube.com/watch?v=6gibI4Fo1R8"> ChatGPT 4 Workflow & Tips as a Software Engineer</a> </li>
 </ul>
 
 # Prompts 
